@@ -1,1 +1,7 @@
+Hello World!
 
+This is an SMTP mail sent from Moralist Festus.
+
+This is Just a test.
+
+Thanks! 
