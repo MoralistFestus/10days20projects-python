@@ -1,0 +1,5 @@
+http://moralistdev.000webhostapp.com/img/logo-b.png
+http://moralistdev.000webhostapp.com/style.css
+http://moralistdev.000webhostapp.com/css/w3.css
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css
+http://moralistdev.000webhostapp.com/css/fontawesome.css

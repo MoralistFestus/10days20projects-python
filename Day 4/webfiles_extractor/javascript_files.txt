@@ -1,0 +1,6 @@
+http://moralistdev.000webhostapp.com/js/core.js
+http://moralistdev.000webhostapp.com/js/jquery.min.js
+http://moralistdev.000webhostapp.com/js/popper.min.js
+http://moralistdev.000webhostapp.com/js/bootstrap.min.js
+http://moralistdev.000webhostapp.com/js/alime.bundle.js
+http://moralistdev.000webhostapp.com/js/default-assets/active.js
