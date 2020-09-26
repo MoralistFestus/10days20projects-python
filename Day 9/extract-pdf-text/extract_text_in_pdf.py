@@ -2,7 +2,7 @@
 import PyPDF2 
 	
 # creating a pdf file object 
-pdfFileObj = open('example.pdf', 'rb') 
+pdfFileObj = open('javascript.pdf', 'rb') 
 	
 # creating a pdf reader object 
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj) 
